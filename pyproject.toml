@@ -1,0 +1,7 @@
+[project]
+name = "edu-data-analysis-system"
+version = "0.1.0"
+description = "这个uv管理的"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

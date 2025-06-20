@@ -1,12 +1,12 @@
 /*
  * =================================================================
- * 3. 数据管理页面 (`client/src/views/`)
+ * 数据管理页面 (`client/src/views/`)
  * 采用了新的Flexbox布局，以完美实现固定表头的内部滚动。
  * (已重新启用 onBeforeRouteUpdate 策略来处理组件复用)
  * =================================================================
  */
 
-// --- 文件: client/src/views/DataManagementView.vue (请替换此文件) ---
+// --- 文件: client/src/views/DataManagementView.vue ---
 <template>
   <div class="data-management-page">
     <!-- 1. 顶部控制区 -->

@@ -1,4 +1,4 @@
-// --- 文件: client/src/api/data.ts (请创建或替换此文件) ---
+// --- 文件: client/src/api/data.ts  ---
 import api from '@/api';
 
 // 定义学生数据类型接口，用于类型检查

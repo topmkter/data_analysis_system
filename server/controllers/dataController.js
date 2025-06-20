@@ -7,7 +7,7 @@
  * =================================================================
  */
 
-// --- 文件: server/controllers/dataController.js (已更新) ---
+// --- 文件: server/controllers/dataController.js  ---
 const xlsx = require('xlsx');
 const Student = require('../models/Student');
 

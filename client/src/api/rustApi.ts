@@ -1,11 +1,11 @@
 /*
  * =================================================================
- * 2. API 服务层 (`client/src/api/`)
+ * API 服务层 (`client/src/api/`)
  * 说明: 新增 todos.ts 文件，用于直接与Rust服务通信。
  * =================================================================
  */
 
-// --- 文件: client/src/api/rustApi.ts (新增) ---
+// --- 文件: client/src/api/rustApi.ts  ---
 import axios from 'axios';
 import { ElMessage } from 'element-plus';
 

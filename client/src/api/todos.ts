@@ -1,11 +1,11 @@
 /*
  * =================================================================
- * 1. API 服务层 (`client/src/api/`)
- * 说明: (已更新) 新增了Markdown导入/导出的API函数。
+ * API 服务层 (`client/src/api/`)
+ * 说明: 新增了Markdown导入/导出的API函数。
  * =================================================================
  */
 
-// --- 文件: client/src/api/todos.ts (已更新) ---
+// --- 文件: client/src/api/todos.ts ---
 import rustApi from './rustApi';
 
 export interface Todo {

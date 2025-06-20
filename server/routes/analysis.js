@@ -1,4 +1,4 @@
-// --- 文件: server/routes/analysis.js (为确保正确，提供完整文件) ---
+// --- 文件: server/routes/analysis.js  ---
 const express = require('express');
 const router = express.Router();
 const analysisController = require('../controllers/analysisController');

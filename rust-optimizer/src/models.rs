@@ -1,5 +1,5 @@
 // =================================================================
-// 文件: rust-optimizer/src/models.rs (已更新)
+// 文件: rust-optimizer/src/models.rs
 // =================================================================
 use serde::{Serialize, Deserialize};
 use sqlx::FromRow;

@@ -18,7 +18,7 @@ from datetime import datetime
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',  # 您的MySQL用户名
-    'password': '1215',  # <-- 替换为您的MySQL密码
+    'password': 'Yours Password',  # <-- 替换为您的MySQL密码
     'database': 'edu_analysis_db'  # 您的数据库名称
 }
 

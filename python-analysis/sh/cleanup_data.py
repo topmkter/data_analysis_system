@@ -11,8 +11,8 @@ import mysql.connector
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '1215',  # <-- 替换为您的MySQL密码
-    'database': 'edu_analysis_db'
+    'password': 'Yours_password',  # <-- 替换为您的MySQL密码
+    'database': 'edu_analysis_db' # <-- 你的数据库名字
 }
 
 

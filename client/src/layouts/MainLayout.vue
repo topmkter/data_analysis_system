@@ -1,10 +1,10 @@
 /*
  * =================================================================
- * 4. 主布局 (`client/src/layouts/MainLayout.vue`)
- * 说明: (已修正) 恢复了页脚链接并启用了待办事项菜单。
+ * 主布局 (`client/src/layouts/MainLayout.vue`)
+ * 说明: 恢复了页脚链接并启用了待办事项菜单。
  * =================================================================
  */
-// --- 文件: client/src/layouts/MainLayout.vue (请替换此文件) ---
+// --- 文件: client/src/layouts/MainLayout.vue  ---
 <template>
   <el-container class="main-layout">
     <el-aside :width="sidebarWidth + 'px'" class="sidebar-container">

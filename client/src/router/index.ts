@@ -1,11 +1,11 @@
 /*
  * =================================================================
- * 3. 路由 (`client/src/router/index.ts`)
- * 说明: (已更新) 增加了“待办事项”页面的路由。
+ * 路由 (`client/src/router/index.ts`)
+ * 说明: 增加了“待办事项”页面的路由。
  * =================================================================
  */
 
-// --- 文件: client/src/router/index.ts (请替换此文件) ---
+// --- 文件: client/src/router/index.ts  ---
 import { createRouter, createWebHistory } from 'vue-router';
 import LoginView from '@/views/LoginView.vue';
 import MainLayout from '@/layouts/MainLayout.vue';

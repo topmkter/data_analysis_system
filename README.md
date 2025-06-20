@@ -1,6 +1,31 @@
 
 
-[TOC]
+- - # Contents
+  
+    - [任务分级](#任务分级)
+    - [任务整理](#任务整理)
+    - [Design idea and innovation point](#design-idea-and-innovation-point)
+      - [Background](#background)
+      - [Design inspirations](#design-inspirations)
+      - [Innovation point](#innovation-point)
+      - [Developmental vision](#developmental-vision)
+    - [信息全景分析数据系统 (Edu-Data-Analysis-System)](#信息全景分析数据系统-edu-data-analysis-system)
+      - [技术架构 (System Architecture)](#技术架构-system-architecture)
+      - [技术栈 (Technology Stack)](#技术栈-technology-stack)
+      - [项目结构 (Project Structure)](#项目结构-project-structure)
+    - [已实现功能 (Features)](#已实现功能-features)
+    - [安装与配置 (Setup & Configuration)](#安装与配置-setup--configuration)
+      - [1. 先决条件](#1-先决条件)
+      - [2. 数据库设置](#2-数据库设置)
+      - [3. 后端服务安装](#3-后端服务安装)
+      - [4. 前端安装](#4-前端安装)
+    - [运行项目 (Running the Project)](#运行项目-running-the-project)
+    - [开发者 (Author)](#开发者-author)
+    - [BUG待解决](#bug待解决)
+    - [nodejs下载功能](#nodejs下载功能)
+    - [Bug 提交 (Bug Report)](#bug-提交-bug-report)
+  
+    ---
 
 
 

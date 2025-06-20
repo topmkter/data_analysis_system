@@ -4,11 +4,6 @@
 
 - [任务分级](#任务分级)
 - [任务整理](#任务整理)
-- [Design idea and innovation point](#design-idea-and-innovation-point)
-  - [Background](#background)
-  - [Design inspirations](#design-inspirations)
-  - [Innovation point](#innovation-point)
-  - [Developmental vision](#developmental-vision)
 - [信息全景分析数据系统 (Edu-Data-Analysis-System)](#信息全景分析数据系统-edu-data-analysis-system)
   - [技术架构 (System Architecture)](#技术架构-system-architecture)
   - [技术栈 (Technology Stack)](#技术栈-technology-stack)
@@ -283,11 +278,12 @@ npm install
 
 ### Bug 提交 (Bug Report)
 
-如果您在使用过程中遇到任何问题或bug，欢迎通过以下方式提交：
+如果您在使用过程中遇到任何问题或 bug，欢迎通过以下方式提交：
 
-GitHub Issues: 在本项目的 GitHub Issues 页面 新建一个 issue。
-
-邮件: 发送邮件至 <sudocjx@gmail.com>。
+* **GitHub Issues**: 在本项目的 GitHub Issues 页面新建一个 issue。
+* **个人博客**: [smlyfm.github.io](https.smlyfm.github.io)
+* **GitHub 主页**: [![GitHub](https://img.shields.io/badge/GitHub-KS--MATH-blue?style=social&logo=github)](https://github.com/KS-MATH)
+* **邮件**: 发送邮件至 sudocjx@gmail.com。
 
 提交时，请尽可能详细地描述问题，包括复现步骤、错误截图和您的运行环境，这将有助于我更快地定位和解决问题。
 
